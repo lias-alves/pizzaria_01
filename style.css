@@ -257,6 +257,10 @@ footer h5 {
     @media (max-width: 500px) {
         footer span {
             display: block;
+            padding: 5px 0 5px 0;
+        }
+        label.logo {
+            font-size: 20px;
         }
     }
 }
