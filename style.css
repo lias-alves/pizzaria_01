@@ -145,7 +145,7 @@ img {
     border-radius: 5px;
 }
 .alimentos div h2 {
-    font-size: 30px;
+    font-size: 22px;
     font-weight: bold;
 }
 
@@ -161,13 +161,13 @@ img {
 
 .alim-col h3 {
     padding-top: 5px;
-    font-size: 21px;
+    font-size: 19px;
     font-weight: bold;
 }
 
 .alim-col p {
     padding-top: 5px;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .alim-col button {
@@ -201,11 +201,13 @@ footer {
 }
 
 footer h2 {
+    font-size: 19px;
     padding: 10px 0 10px 0;
 }
 
 footer span {
     display: inline-block;
+    font-size: 15px;
     padding: 0 5% 0 5%;
 }
 
